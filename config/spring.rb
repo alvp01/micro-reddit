@@ -1,4 +1,3 @@
-
 Spring.watch(
   '.ruby-version',
   '.rbenv-vars',
