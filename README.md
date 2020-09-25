@@ -4,8 +4,6 @@
 
 > Active-Record Ruby on Rails project
 
-![screenshot](./app/assets/images/screenshot.png)
-
 ## Concept
 
 > Build a basic app with rails to learn the basic concepts of modeling in Active Record, and to get used to the rails workflow.
